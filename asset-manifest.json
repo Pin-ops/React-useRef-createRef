@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-useRef-createRef/static/css/main.da5d7109.chunk.css",
+    "main.js": "/React-useRef-createRef/static/js/main.83d2dd67.chunk.js",
+    "main.js.map": "/React-useRef-createRef/static/js/main.83d2dd67.chunk.js.map",
+    "runtime-main.js": "/React-useRef-createRef/static/js/runtime-main.a253a9c0.js",
+    "runtime-main.js.map": "/React-useRef-createRef/static/js/runtime-main.a253a9c0.js.map",
+    "static/js/2.ca900440.chunk.js": "/React-useRef-createRef/static/js/2.ca900440.chunk.js",
+    "static/js/2.ca900440.chunk.js.map": "/React-useRef-createRef/static/js/2.ca900440.chunk.js.map",
+    "index.html": "/React-useRef-createRef/index.html",
+    "precache-manifest.81f73cf540d3c13e67cbce6994060285.js": "/React-useRef-createRef/precache-manifest.81f73cf540d3c13e67cbce6994060285.js",
+    "service-worker.js": "/React-useRef-createRef/service-worker.js",
+    "static/css/main.da5d7109.chunk.css.map": "/React-useRef-createRef/static/css/main.da5d7109.chunk.css.map",
+    "static/js/2.ca900440.chunk.js.LICENSE.txt": "/React-useRef-createRef/static/js/2.ca900440.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a253a9c0.js",
+    "static/js/2.ca900440.chunk.js",
+    "static/css/main.da5d7109.chunk.css",
+    "static/js/main.83d2dd67.chunk.js"
+  ]
+}
